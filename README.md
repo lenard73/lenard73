@@ -1,1 +1,1 @@
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lenard73&bg_color=0d1117&color=58a6ff&line=238636&point=2ea043&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lenard73&bg_color=0d1117&color=58a6ff&line=238636&point=2ea043&area=true&hide_border=true)](https://github.com/lenard73/github-readme-activity-graph)
