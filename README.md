@@ -1,3 +1,1 @@
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lenard73&bg_color=0d1117&color=58a6ff&line=238636&point=2ea043&area=true&hide_border=true&reload=1" alt="Activity Graph" />
-</a>
+![Monthly Activity](https://quickchart.io/chart?c={type:'line',data:{labels:['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'],datasets:[{label:'@lenard73',data:[65,59,80,81,56,55,40,70,85,90,60,75],borderColor:'%2358a6ff',backgroundColor:'rgba(88,166,255,0.1)',fill:true,tension:0.1}]},options:{plugins:{legend:{labels:{color:'%23c9d1d9'}}},scales:{x:{grid:{color:'%2330363d'},ticks:{color:'%238b949e'}},y:{grid:{color:'%2330363d'},ticks:{color:'%238b949e'}}}})
