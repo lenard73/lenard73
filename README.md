@@ -1,1 +1,1 @@
-![Monthly Activity](https://quickchart.io/chart?c={type:'line',data:{labels:['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'],datasets:[{label:'@lenard73',data:[65,59,80,81,56,55,40,70,85,90,60,75],borderColor:'%2358a6ff',backgroundColor:'rgba(88,166,255,0.1)',fill:true,tension:0.1}]},options:{plugins:{legend:{labels:{color:'%23c9d1d9'}}},scales:{x:{grid:{color:'%2330363d'},ticks:{color:'%238b949e'}},y:{grid:{color:'%2330363d'},ticks:{color:'%238b949e'}}}})
+
